@@ -1,0 +1,11 @@
+{
+    "appName": "perfer-demo2",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "perfer-demo2"
+    ]
+  }
