@@ -75,5 +75,13 @@
   },
   "wallaby": {
     "autoDetect": true
+  },
+  "perfer": {
+    "bundleSize": {
+      "files": [
+        "./dist/statics/*.min.js",
+        "./dist/statics/*.min.css"
+      ]
+    }
   }
 }
